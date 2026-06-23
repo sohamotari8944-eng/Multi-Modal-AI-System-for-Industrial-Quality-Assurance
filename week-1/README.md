@@ -17,8 +17,10 @@
 I learned the fundamentals of Python programming, including how to create variables, work with different data types, use loops and functions, and organize data using lists and dictionaries. I also gained a basic theoretical understanding of Machine Learning.
 
 ## Files
-- hello_world.py : First Python program
-- datatypes.py : Examples of different data types
-- lists_dicts.py : List and dictionary operations
-- loops.py : For and while loop examples
-- functions.py : User-defined function examples
+- hello_world.py
+- datatypes.py
+- intro_to_string_and_negative_slicing.py
+- dict.py
+- while_loops.py
+- functions.py
+- snake_water_gun_game.py
