@@ -18,8 +18,7 @@ I learned the fundamentals of Python programming, including how to create variab
 
 ## Files
 - hello_world.py : First Python program
-- variables.py : Variable declarations and operations
-- data_types.py : Examples of different data types
+- datatypes.py : Examples of different data types
 - lists_dicts.py : List and dictionary operations
 - loops.py : For and while loop examples
 - functions.py : User-defined function examples
