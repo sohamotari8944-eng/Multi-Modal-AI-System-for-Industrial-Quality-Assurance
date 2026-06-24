@@ -9,4 +9,4 @@
 - Introduction to CNNs
 
 ## Learning Outcome
-During this week, I focused on understanding the basics of Deep Learning. I learned how neural networks learn from data, studied key concepts like activation functions and backpropagation, and got an introduction to Convolutional Neural Networks (CNNs)
+In Week 3, I studied the fundamentals of Deep Learning and neural networks. I learned how models are trained using forward and backward propagation and got a basic introduction to CNNs and their use in computer vision.
