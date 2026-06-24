@@ -61,5 +61,3 @@ The goal of this project is to understand and build AI systems that can analyze 
 Completed the first four weeks of the learning roadmap and uploaded the relevant notes, code, and practice work completed so far.
 
 More updates will be added as the project progresses.
-ct quality, and more efficient manufacturing processes.
-e
