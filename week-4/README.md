@@ -6,4 +6,4 @@
 - Applications of LLMs
 - Hands-on LLM Tutorial
 
-In Week 3, I studied the fundamentals of Deep Learning and neural networks. I learned how models are trained using forward and backward propagation and got a basic introduction to CNNs and their use in computer vision.
+- In Week 4, I studied the basics of Large Language Models and explored how they understand and generate human language. I also completed a tutorial to get practical exposure to working with LLMs.
