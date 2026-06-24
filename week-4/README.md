@@ -6,4 +6,5 @@
 - Applications of LLMs
 - Hands-on LLM Tutorial
 
+## Learning Outcome
 In Week 4, I studied the basics of Large Language Models and explored how they understand and generate human language. I also completed a tutorial to get practical exposure to working with LLMs.
