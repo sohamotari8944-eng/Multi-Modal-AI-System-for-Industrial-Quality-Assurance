@@ -1,14 +1,15 @@
 # Week 5: EDA (Exploratory Data Analysis)
 
-## Goals
+## Topics Covered
+- Exploratory Data Analysis (EDA) fundamentals in Python
+- Reading and inspecting datasets (shape, dtypes, summary statistics)
+- Identifying missing values, duplicates, and outliers
+- Data cleaning techniques (handling nulls, fixing inconsistent formatting, dropping/imputing bad data)
+- Basic visualization for EDA (distributions, correlations)
+- Practicing syntax from the EDA cheat sheet in Google Colab
 
-This week focuses on learning EDA and a tutorial on Data Cleaning.
+## Learning Outcome
+I learned how to explore a raw dataset before modeling — checking its structure, spotting missing or inconsistent data, and cleaning it into a usable form. I practiced running and modifying code cell-by-cell in Google Colab, and got comfortable with common pandas operations used during EDA and data cleaning.
 
-| Topic | Link |
-|---|---|
-| EDA | https://app.notion.com/p/Exploratory-Data-Analysis-EDA-in-Python-Cheat-Sheet-56340a36bc7a82fb9e42016bd5ff4264?source=copy_link |
-| Data Cleaning | https://colab.research.google.com/drive/1Uv1W59iKGwPFrqKas1mJnnAYv72_RcnA?usp=sharing |
-
-## Tip
-
-In Google Colab, each cell is executed step by step — click a cell and press `Shift + Enter` to run it. Beyond the given code, try writing and testing your own code or experimenting with syntax from the EDA cheat sheet. Hover near the middle of a cell to reveal a `+code` option for adding and running new cells.
+## Files
+- eda_data_cleaning.ipynb

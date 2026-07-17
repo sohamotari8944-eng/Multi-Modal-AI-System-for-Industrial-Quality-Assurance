@@ -1,32 +1,17 @@
 # Week 6: CV Model
 
-## Dataset
+## Topics Covered
+- Object detection fundamentals with YOLOv8
+- Setting up a YOLOv8 training pipeline in Google Colab (GPU runtime)
+- Preparing a custom dataset (NEU-DET steel surface defects) with `data.yaml` and YOLO-format labels
+- Training and comparing multiple model sizes (nano, small, medium)
+- Evaluating a trained model: Precision, Recall, mAP@50, mAP@50-95
+- Reading training curves and confusion matrices
+- Running inference and visualizing sample predictions with bounding boxes
 
-| Dataset | Link | Notes |
-|---|---|---|
-| NEU-DET (steel surface defects) | https://www.kaggle.com/datasets/zymzym/neu-yolo | Use YOLOv8 model, experiment with nano, small, medium, and large variants to get the best output. |
+## Learning Outcome
+I learned how to train a YOLOv8 object detection model end-to-end: preparing the dataset, running training across different model sizes, and evaluating results using standard object detection metrics. I also learned how model size affects training time and detection quality, and how to interpret a confusion matrix and per-class confidence scores to judge where a model is weaker (e.g. harder-to-detect defect classes like crazing) versus stronger (e.g. scratches).
 
-## Tasks
-
-- Train a YOLOv8 model using the provided dataset.
-- Save the best model (`best.pt`).
-- Report the following metrics:
-  - Precision
-  - Recall
-  - mAP@50
-  - mAP@50-95
-- Include screenshots of:
-  - Training curves
-  - Confusion matrix
-  - Sample predictions
-
-## Metric Thresholds
-
-| Metric | Good | Excellent |
-|---|---|---|
-| Precision | ≥ 0.80 | ≥ 0.90 |
-| Recall | ≥ 0.60 | ≥ 0.75 |
-| mAP@50 | ≥ 0.75 | ≥ 0.85 |
-| mAP@50-95 | ≥ 0.40 | ≥ 0.50 |
-
-**Deadline:** 7th July, 2026 [Hard Deadline]
+## Files
+- Week6_CV_Model_YOLOv8.ipynb
+- best.pt (best trained model weights)
