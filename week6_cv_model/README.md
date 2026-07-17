@@ -13,5 +13,5 @@
 I learned how to train a YOLOv8 object detection model end-to-end: preparing the dataset, running training across different model sizes, and evaluating results using standard object detection metrics. I also learned how model size affects training time and detection quality, and how to interpret a confusion matrix and per-class confidence scores to judge where a model is weaker (e.g. harder-to-detect defect classes like crazing) versus stronger (e.g. scratches).
 
 ## Files
-- Week6_CV_Model_YOLOv8.ipynb
+- Week6_CV_Model_YOLOv8 (3).ipynb
 - best.pt (best trained model weights)
