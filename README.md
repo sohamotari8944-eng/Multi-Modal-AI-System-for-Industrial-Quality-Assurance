@@ -58,9 +58,9 @@ The goal of this project is to understand and build AI systems that can analyze 
 ├── Week-2-ML-Basics/
 ├── Week-3-Deep-Learning-CNN/
 ├── Week-4-Intro-to-LLM/
-├── week-5/
-├── week-6/
-└── week7_8_final_project/
+├── week-5-EDA (Exploratory Data Analysis)/
+├── week-6-CV Model/
+└── week7_8_final_project-LLM Integration & Deployment/
 ```
 
 ## 🛠️ Technologies Explored
