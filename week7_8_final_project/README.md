@@ -1,4 +1,4 @@
-# Week 7 & 8: AI-Powered Industrial Quality Assurance System
+# Week 7 & 8: LLM Integration & Deployment
 
 ## Topics Covered
 - Building a Streamlit web app
@@ -8,6 +8,8 @@
 
 ## Learning Outcome
 I learned how to connect a trained YOLOv8 model to a Streamlit app so it can detect defects on an uploaded image and show the bounding boxes. I also learned how to call a local LLM through Ollama to turn the detection results into a written inspection report.
+
+# AI-Powered Industrial Quality Assurance System
 
 ## How to Run
 1. Install requirements: `pip install -r requirements.txt`
